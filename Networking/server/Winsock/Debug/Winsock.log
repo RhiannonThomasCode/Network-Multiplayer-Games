@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  ClassGame.cpp
+  ClassTcpServer.cpp
+  Source.cpp
+  classUdp.cpp
+c:\users\s149985\desktop\server\winsock\messages.h(7): warning C4091: 'typedef ': ignored on left of 'MESSAGE_PREAMBLE' when no variable is declared
+c:\users\s149985\desktop\server\winsock\messages.h(21): warning C4091: 'typedef ': ignored on left of 'MESSAGE_BULLET_FIRED' when no variable is declared
+c:\users\s149985\desktop\server\winsock\messages.h(34): warning C4091: 'typedef ': ignored on left of 'MESSAGE_RUBBISH' when no variable is declared
+c:\users\s149985\desktop\server\winsock\classudp.cpp(32): warning C4101: 'lenptr': unreferenced local variable
+c:\users\s149985\desktop\server\winsock\classudp.cpp(142): warning C4101: 'hints': unreferenced local variable
+  Generating Code...
+  Winsock.vcxproj -> C:\Users\s149985\Desktop\server\Debug\Winsock.exe
